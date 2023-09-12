@@ -27,6 +27,6 @@ Sharing knowledge and insights through data-driven storytelling.
 
 Enjoying the wonders of anime, movies, music, and the delights of good food.
 
-Feel free to connect with me on LinkedIn to discuss all things data, analytics, or simply to chat about our shared interests! 📈🍿🎵🍔
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/olus/) to discuss all things data, analytics, or simply to chat about our shared interests! 📈🍿🎵🍔
 
 Thanks for visiting, and let's embark on a data-driven journey together! 🚀📊🌍
