@@ -11,7 +11,7 @@
 Welcome to my GitHub profile! 👋 Here, you'll find my contributions to the world of data, analytics, and more. Feel free to explore my repositories and reach out if you'd like to collaborate or discuss data-driven insights. Let's turn data into meaningful stories!
 
 ## 💼 Professional Highlights
-Data Analyst with a focus on unlocking valuable insights from complex datasets.
+Data expert with a focus on unlocking valuable insights from complex datasets.
 
 Expertise in cloud-powered analytics and data visualization.
 
