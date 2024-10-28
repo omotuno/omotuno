@@ -10,7 +10,7 @@ Passionate about transforming data into insights. Anime, music, movies, and grea
 * 🌍  I'm based in Atlanta, Georgia  
 * 🖥️  See my portfolio at [omotuno.github.io](http://omotuno.github.io)  
 * ✉️  You can contact me at [omotundejunior@gmail.com](mailto:omotundejunior@gmail.com)  
-* 🧠  I'm learning how to work with Databricks, Snowflake, and other cloud technologies  
+* 🧠  I'm currently learning how to work with large Language Models, Databricks, Snowflake, and other cloud technologies  
 * 🤝  I'm open to collaborating on Data Engineering & Machine Learning Projects  
 
 ### Skills  
