@@ -4,7 +4,7 @@ My name is Olusegun Omotunde
 <br>
 👋 **Data Engineer | Big Data & Cloud Analytics Enthusiast**  
 🎓 **Finance & Applied Statistics | Business Analytics Specialization**  
-🌍 **Nigeria ➔ Data Journey** 🚀  
+🌍 **Nigeria ➔ U.S Data Journey** 🚀  
 Passionate about transforming data into insights. Anime, music, movies, and great food fan. Connect to collaborate or discuss data-driven insights!
 
 * 🌍  I'm based in Atlanta, Georgia  
