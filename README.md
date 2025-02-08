@@ -26,7 +26,8 @@ A Data Engineer passionate about transforming raw data into actionable insights:
 
 * 🌍  I'm based in Atlanta, Georgia  
 * 🖥️  See my portfolio at [omotuno.github.io](http://omotuno.github.io)  
-* ✉️  You can contact me at [omotundejunior@gmail.com](mailto:omotundejunior@gmail.com)    
+* ✉️  You can contact me at [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olus/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:omotundejunior@gmail.com)
 * 🤝  I'm open to collaborating on Data Engineering & Machine Learning Projects  
 
 
