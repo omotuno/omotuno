@@ -1,15 +1,20 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+<h1 align="center">Olusegun Stephen Omotunde</h1>  
 
+<p align="center">
+  <b>Data Engineer</b> | <b>Multi-Cloud Engineer</b> | <b>AI Engineer</b>
+</p>
 
-<h1 align="center"> My name is Olusegun Stephen Omotunde</h1>
+I am passionate about creating Value With high-quality, insightful information. With a strong background in **finance, applied statistics, and business analytics**, I thrive at the intersection of **data engineering, cloud computing, and artificial intelligence**.  
 
-# 💫 About Me:
-A Data Engineer passionate about transforming raw data into actionable insights: with a strong background in finance, applied statistics, and business analytics, I thrive on solving complex problems with innovative data solutions. Outside  work, I enjoy reading books, animes, music, movies, and great food. Let's connect to collaborate on impactful data-driven projects!
+Outside of work, I enjoy reading, anime, music, movies, and exploring great food. I’m always open to collaborating on impactful projects that push the boundaries of data and AI.  
 
-## 🚀 What I'm Up To:
-- Always **learning** and always **building**
-- 🧠 Currently growing my skillset in **Data Engineering**  exploring **large language models (LLMs)**, **Databricks**, **Snowflake**, and advanced **cloud technologies**.
-- Focused on developing robust **data pipelines** and mastering **data engineering best practices**.
+## 🚀 What I'm Up To  
+- 🔍 Continuously **learning** and **building**  
+- 🧠 Expanding expertise in:  
+  - **Data Engineering** (ETL pipelines, data modeling, orchestration)  
+  - **Multi-Cloud Infrastructure** (AWS, GCP, Azure)  
+  - **Artificial Intelligence** (LLMs, Deep learning)  
+- ⚙️ Focused on developing robust **data pipelines**, mastering **cloud-native architectures**, and applying **AI-driven solutions** to real-world problems  
 
 # 💻 Tech Stack:
 
