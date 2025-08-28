@@ -4,7 +4,7 @@
   <b>Data Engineer</b> | <b>Multi-Cloud Engineer</b> | <b>AI Engineer</b>
 </p>
 
-I am passionate about creating Value With high-quality, insightful information. With a strong background in **finance, applied statistics, and business analytics**, I thrive at the intersection of **data engineering, cloud computing, and artificial intelligence**.  
+I am passionate about creating Value With high-quality, insightful information. With a strong background in Finance, Applied Statistics, and Business Analytics, I thrive at the intersection of data engineering, cloud computing, and artificial intelligence.  
 
 Outside of work, I enjoy reading, anime, music, movies, and exploring great food. I’m always open to collaborating on impactful projects that push the boundaries of data and AI.  
 
