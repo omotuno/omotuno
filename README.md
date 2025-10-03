@@ -1,14 +1,18 @@
 <h1 align="center">Hi, I'm Olusegun 👋</h1>  
 
-<h3 align="center">Data Engineer | AI Engineer 
+<h3 align="center">Data Engineer | AI Engineer</h3>  
+
+---
 
 <p align="center">
- 
-</p>
- I love turning raw data into insights, building scalable pipelines, and exploring how AI can solve real-world problems.  . With a strong background in Finance, Applied Statistics, and Business Analytics, I thrive at the intersection of data engineering, cloud computing, and artificial intelligence.  
+I enjoy turning raw data into insights, building scalable pipelines, and exploring how AI can solve real-world problems.  
+</p>  
 
-Outside of work, I enjoy reading, anime, music, movies, and exploring great food. I’m always open to collaborating on impactful projects that push the boundaries of data and AI.  
+I hold a **B.Sc. in Finance** and an **M.Sc. in Applied Statistics & Operations Research (Business Analytics)**.  
+This blend of finance and analytics gives me a unique perspective on how data can drive better decisions.  
 
+I enjoy reading, anime, music, movies, and discovering great food spots.  
+I’m always open to collaborating on impactful projects that push the boundaries of data and AI.  
 
 # 💻 Tech Stack:
 
