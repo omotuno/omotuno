@@ -3,9 +3,9 @@
 <h3 align="center">Data Engineer | AI Engineer 
 
 <p align="center">
-  I love turning raw data into insights, building scalable pipelines, and exploring how AI can solve real-world problems.  
+ 
 </p>
-I am passionate about creating Value With high-quality, insightful information. With a strong background in Finance, Applied Statistics, and Business Analytics, I thrive at the intersection of data engineering, cloud computing, and artificial intelligence.  
+ I love turning raw data into insights, building scalable pipelines, and exploring how AI can solve real-world problems.  . With a strong background in Finance, Applied Statistics, and Business Analytics, I thrive at the intersection of data engineering, cloud computing, and artificial intelligence.  
 
 Outside of work, I enjoy reading, anime, music, movies, and exploring great food. I’m always open to collaborating on impactful projects that push the boundaries of data and AI.  
 
