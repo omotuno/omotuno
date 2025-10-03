@@ -1,20 +1,14 @@
-<h1 align="center">Olusegun Stephen Omotunde</h1>  
+<h1 align="center">Hi, I'm Olusegun 👋</h1>  
+
+<h3 align="center">Data Engineer | Cloud Builder | AI Explorer</h3>  
 
 <p align="center">
-  <b>Data Engineer</b> | <b>Multi-Cloud Engineer</b> | <b>AI Engineer</b>
+  I love turning raw data into insights, building scalable pipelines, and exploring how AI can solve real-world problems.  
 </p>
-
 I am passionate about creating Value With high-quality, insightful information. With a strong background in Finance, Applied Statistics, and Business Analytics, I thrive at the intersection of data engineering, cloud computing, and artificial intelligence.  
 
 Outside of work, I enjoy reading, anime, music, movies, and exploring great food. I’m always open to collaborating on impactful projects that push the boundaries of data and AI.  
 
-## 🚀 What I'm Up To  
-- 🔍 Continuously **learning** and **building**  
-- 🧠 Expanding expertise in:  
-  - **Data Engineering** (ETL pipelines, data modeling, orchestration)  
-  - **Multi-Cloud Infrastructure** (AWS, GCP, Azure)  
-  - **Artificial Intelligence** (LLMs, Deep learning)  
-- ⚙️ Focused on developing robust **data pipelines**, mastering **cloud-native architectures**, and applying **AI-driven solutions** to real-world problems  
 
 # 💻 Tech Stack:
 
@@ -35,6 +29,6 @@ Outside of work, I enjoy reading, anime, music, movies, and exploring great food
 * 🖥️  See my portfolio at [omotuno.github.io](http://omotuno.github.io)  
 * ✉️  You can contact me at [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olus/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:omotundejunior@gmail.com)
-* 🤝  I'm open to collaborating on Data Engineering & Machine Learning Projects  
+* 🤝  I'm open to collaborating on Data Engineering & AI Projects.  
 
 
