@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Olusegun 👋</h1>  
 
-<h3 align="center">Data Engineer | Cloud Builder | AI Explorer</h3>  
+<h3 align="center">Data Engineer | AI Engineer 
 
 <p align="center">
   I love turning raw data into insights, building scalable pipelines, and exploring how AI can solve real-world problems.  
