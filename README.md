@@ -5,6 +5,12 @@
 I enjoy building data pipelines, designing scalable systems, and exploring how AI can solve real-world problems.  
 I hold a **B.Sc. in Finance** and an **M.Sc. in Applied Statistics & Operations Research (Business Analytics)** 
 
+---
+### 🎯 Outside of Work  
+I enjoy reading, anime, music, movies, and discovering great food spots.  
+Always open to collaborating on projects that push the boundaries of **data and AI**.
+
+---
 # 💻 Tech Stack:
 
 | **Category**            | **Technologies**                                                                                                                                                                                                                                                                                                                                                                                                |
