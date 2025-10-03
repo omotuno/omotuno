@@ -2,7 +2,7 @@
 
 <h3 align="center">Data Engineer | AI Engineer</h3>  
 
----
+
 
 <p align="center">
 I enjoy turning raw data into insights, building scalable pipelines, and exploring how AI can solve real-world problems.  
