@@ -1,4 +1,4 @@
-# Hi, I'm Olusegun 👋  
+
 
 **Data Engineer | AI Engineer**  
 
