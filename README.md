@@ -1,14 +1,108 @@
 
 
-**Data Engineer | AI Engineer**  
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=600&lines=Data+%26+AI+Engineer;Tool+and+Platform+Agnostic+Business+Technologist;AWS+%7C+Azure+%7C+GCP+%7C+OCI+%7C+DevOps+%7C;Multi+Cloud+Architect" alt="Typing SVG" />
+</div>
 
-I enjoy building data pipelines, designing scalable systems, and exploring how AI can solve real-world problems.  
-I hold a **B.Sc. in Finance** and an **M.Sc. in Applied Statistics & Operations Research (Business Analytics)** 
 
+## Data Engineer  | AI Engineer   | ☁️ Multi Cloud Solution Architect 
+
+My name is Olusegun, and I’m a results-driven Data and AI Engineer with a strong foundation in cloud architecture and DevOps. I design and deploy scalable, cost-effective solutions across AWS, Azure, GCP, and OCI. With deep experience in building real-time analytics platforms, AI-driven cloud solutions, and serverless architectures. I approach every challenge with a tool and platform agnostic mindset, letting the problem define the solution and, ensuring that technology serves business strategy, not the other way around. My focus is on translating innovation into measurable business value.
+
+
+## 🤝 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olusegun-stephen-omotunde/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omotundejunior@gmail.com)
+* 🌍  I'm currently based in Atlanta, Georgia  
 ---
-### 🎯 Outside of Work  
-I enjoy reading, anime, music, movies, and discovering great food spots.  
-Always open to collaborating on projects that push the boundaries of **data and AI**.
+
+
+### 🎯 Outside of Work
+
+- I enjoy reading, anime, music, movies, and discovering great food spots.  
+- I’m also actively exploring emerging trends in the AI and data space—currently diving into **Retrieval-Augmented Generation (RAG)**, **agentic workflows**, and **Multi-Chain Planning (MCP)**.  
+- I enjoy sharing my technical journey and real-world project insights through blog posts on [**Medium**](https://medium.com/@olusegunomotunde).  
+- Always open to collaborating on projects that push the boundaries of **data and AI**.
+
+
+## 💼 Featured Projects
+
+### **🤖 AI  Solutions**
+- **[CSV Data Viz Analysis Tool](https://github.com/omotuno/CSV-Data-Viz-Analysis-Tool)**  
+  CSV Data Viz Analysis Tool is a user-friendly application designed for visualizing structured data. This tool allows users to effortlessly create plots with accompanying summary.  
+- **[HealthHub AI Assistant]()**  
+  Implemented an AI agent for customer support and medical appointment scheduling using **OpenAI API**, **Functions (API Call)**, and **RAG (Retrieval-Augmented Generation)**.
+- **[HealthHub Vision AI]()**  
+  Built a machine learning solution for disease identification in medical images using **Google Cloud Vision AI**.
+- **[HealthHub Speech-to-Text]()**  
+  Developed functionality to convert doctor-patient audio conversations into text using **Azure AI Speech Service**.
+- **[HealthHub Medical Voice Translator]()**  
+  Enabled multilingual medical information conversion using **AWS Polly** and **Amazon Translate**.
+- **[HealthHub Serverless Deployment]()**  
+  Deployed a 100% serverless application on AWS using **CloudFormation**, **Cognito**, **S3**, **API Gateway**, **DynamoDB**, and **Lambda**.
+- **[Local RAG Implementation with DeepSeek and Ollama]()**  
+  Developed a local **Retrieval-Augmented Generation (RAG)** solution using **DeepSeek**, **Ollama**, and Python for privacy-focused AI inference.
+
+
+
+### **🛠️ Data Engineering**
+
+
+  
+### **☁️ AWS Solutions**
+
+- **[Automating Magento eCommerce Deployment]()**  
+  Automated Magento deployment on AWS using **Terraform** and **Ansible**.
+- **[Automating Magento eCommerce Deployment]()**  
+  Automated Magento deployment on AWS using **Terraform** and **Ansible**.
+- **[SAP Migration Cost Analysis]()**  
+  Created an executive presentation for SAP migration costs from on-premises to AWS.
+- **[Terraform AWS EC2 Security Automation]()**  
+  Automated EC2 instance setup with **AWS Systems Manager** and **SNS** for security agent installation.
+- **[Scalable Web Application]()**  
+  Built a scalable web app using **Elastic Beanstalk**, **DynamoDB**, **CloudFront**, and **Edge Locations**.
+- **[Cloud Migration to AWS]()**  
+  Migrated on-premises infrastructure to AWS with minimal downtime.
+- **[Automated AWS IAM Management]()**  
+  Automated user migration and IAM resource management on AWS.
+- **[AWS Weather Dashboard](https://github.com/omotuno/AWS-Weather-Collection-Dashboard)**  
+  It utilizes the OpenWeather API to retrieve weather information and stores it in an AWS S3 bucket. The weather data includes key metrics like temperature (°F), humidity, and weather conditions, and is timestamped for historical tracking
+
+### **🌐 Google Cloud Platform (GCP)**
+- **[Global Cloud Load Balancing]()**  
+  Implemented global load balancing for high availability and intelligent traffic distribution.
+- **[Intercontinental VM Migration]()**  
+  Migrated VMs from the USA to Australia using **GCP Storage Snapshots**.
+- **[Multi-Cloud Private Network]()**  
+  Deployed a private multi-cloud network (AWS + GCP) using **Terraform**.
+- **[GCP Storage Automation]()**  
+  Automated Google Cloud Storage using **Python** and **IAM Service Accounts**.
+
+### **🌐 Oracle Cloud Infrastructure (OCI)**
+
+
+### **🚀DevOps & CI/CD**
+- **[HumanGov Serverless Microservice]()**  
+  Developed an event-driven serverless microservice using **AWS Lambda** and **Boto3**.
+- **[AWS CloudWatch Monitoring]()**  
+  Automated monitoring and alerting for applications using **CloudWatch**, **SNS**, and **Chatbot**.
+- **[CI/CD Pipeline for Kubernetes]()**  
+  Automated build and deployment on **Kubernetes** using **AWS CodePipeline** and **CodeBuild**.
+- **[AWS EKS Deployment]()**  
+  Deployed a SaaS application on **AWS EKS** with **Route 53**, **ALB Ingress**, and **SSL**.
+- **[HumanGov ECS POC]()**  
+  Implemented a Proof of Concept (POC) on **AWS ECS** fronted by **Application Load Balancer (ALB)** and stored Docker images on **Elastic Container Registry (ECR)**.
+- **[Terraform AWS Infrastructure]()**  
+  Built reusable multi-tenant AWS infrastructure using **Terraform**.
+
+### ** Data Science & Machine Learning Solutions**
+- **[NBA Players Clustering](https://github.com/omotuno/nba_positions_clustering)**  
+  This project performs cluster analysis on NBA player statistics to group players into functional categories based on their on-court statistics and style of play.
+- **[Baseball Salary Prediction](https://github.com/omotuno/baseball_salary_prediction)**  
+  This project, developed in R Studio, delves into regression modeling for predicting annual salaries of major league baseball players using the Hitters dataset from the ISLR package. 
+
+### **📈 Data Visualization**
+
 
 ---
 # 💻 Tech Stack:
@@ -24,11 +118,4 @@ Always open to collaborating on projects that push the boundaries of **data and 
 | **Project & Task Management**            | ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white)   
 | **Frameworks & Libraries**  | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-DA251D?style=flat&logo=xgboost&logoColor=white) ![LightGBM](https://img.shields.io/badge/LightGBM-00A65A?style=flat&logo=lightgbm&logoColor=white) ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)  ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) |
 
-
-* 🌍  I'm based in Atlanta, Georgia  
-* 🖥️  See my portfolio at [omotuno.github.io](http://omotuno.github.io)  
-* ✉️  You can contact me at [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olus/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:omotundejunior@gmail.com)
-* 🤝  I'm open to collaborating on Data Engineering & AI Projects.  
-
-
+![Profile Views](https://komarev.com/ghpvc/?username=omotuno&color=blue&style=flat-square)
