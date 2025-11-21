@@ -50,56 +50,73 @@ My name is Olusegun, and I’m a results-driven Data and AI Engineer with a stro
 
   
 ### **☁️ AWS Solutions**
-
-- **[Automating Magento eCommerce Deployment]()**  
-  Automated Magento deployment on AWS using **Terraform** and **Ansible**.
-- **[Automating Magento eCommerce Deployment]()**  
-  Automated Magento deployment on AWS using **Terraform** and **Ansible**.
-- **[SAP Migration Cost Analysis]()**  
-  Created an executive presentation for SAP migration costs from on-premises to AWS.
-- **[Terraform AWS EC2 Security Automation]()**  
-  Automated EC2 instance setup with **AWS Systems Manager** and **SNS** for security agent installation.
-- **[Scalable Web Application]()**  
-  Built a scalable web app using **Elastic Beanstalk**, **DynamoDB**, **CloudFront**, and **Edge Locations**.
-- **[Cloud Migration to AWS]()**  
-  Migrated on-premises infrastructure to AWS with minimal downtime.
-- **[Automated AWS IAM Management]()**  
-  Automated user migration and IAM resource management on AWS.
+- **[Executive Presentation: SAP Migration to AWS Estimated Cost Analysis](https://medium.com/aws-tip/executive-presentation-of-infrastructure-costs-for-an-sap-migration-project-from-on-premises-to-42ec61f7fd68)**  
+  Created an executive presentation of infrastructure costs for a SAP migration project from On-Premises to AWS.
+- **[DevSecOps- Infrastructure As Code (IAC) and Automation of a Security Agent Installation](http://medium.com/aws-tip/implementation-of-a-set-of-ec2-instances-using-terraform-and-aws-systems-manager-configuration-with-74830c800935)**  
+   Implementation of a set of EC2 instances using Terraform and AWS Systems Manager configuration with **Amazon Simple Notification Service (SNS)** for automated installation of security agents/officers
+- **[Implementation and Deployment of a Scalable Web Application on AWS](https://medium.com/@olusegunomotunde/implementation-and-deployment-of-a-scalable-web-application-using-the-2e3a61f64d3d)**  
+  Implementation and deployment of a Scalable Web Application using the services of **AWS Elastic Beanstalk, DynamoDB, CloudFront and Edge Locations**.
+- **[Migration of Workloads from On-prem to AWS](https://medium.com/towards-aws/migration-of-a-workload-running-in-a-corporate-data-center-to-aws-using-the-amazon-ec2-and-rds-8dfe4f5958f6)**  
+  Migration of a Workload running in a Corporate Data Center to AWS using the Amazon EC2 and RDS service
+- **[Automated AWS IAM Management](https://medium.com/aws-tip/automated-user-migration-and-management-of-aws-identity-and-access-management-iam-resources-180f1c14d6ec)**  
+  Automated users migration and management of  the AWS IAM (Identity and Access Management) resources.
 - **[AWS Weather Dashboard](https://github.com/omotuno/AWS-Weather-Collection-Dashboard)**  
   It utilizes the OpenWeather API to retrieve weather information and stores it in an AWS S3 bucket. The weather data includes key metrics like temperature (°F), humidity, and weather conditions, and is timestamped for historical tracking
 
+
+### **☁️ Microsoft Azure Solutions**
+- **[Azure DevOps Project](https://medium.com/@olusegunomotunde/azure-devops-project-docker-image-push-and-deployment-for-containerized-voting-application-in-47468a082407)**  
+  Docker Image Push and Deployment for Containerized Voting Application in **Kubernetes Cluster using Docker, Azure Container Registry (ACR), and Azure Kubernetes Service (AKS)**
+- **[Home Office Solution using Microsoft Azure VPN Gateway](https://medium.com/@olusegunomotunde/azure-project-home-office-solution-during-the-covid-19-pandemic-using-microsoft-azure-vpn-gateway-ddd4323b2d12)**  
+  Created a solution for people who were working in the office to start working from home, normally accessing the environment in Microsoft Azure, and without exposing the entire environment to the internet.
+- **[[Infrastructure modernization, from on-premises to Microsoft Azure](https://medium.com/@olusegunomotunde/azure-project-infrastructure-modernization-from-on-premises-to-microsoft-azure-with-backup-b0973dee44a8)**  
+  Modernized and migrated an on-premises infrastructure environment to Microsoft Azure. Deployed a set of Virtual Machines, the infrastructure, and a shared file system, and replaced tape backups with cloud backups, achieving high availability.
+- **[On Premises DBA Mentoring and PostgreSQL Deployment in Microsoft Azure](https://medium.com/towards-aws/azure-postgresql-database-deployment-with-knowledge-transfer-to-the-on-premises-dbas-team-using-3a3aba23ad70)**  
+  PostgreSQL database deployment with knowledge transfer to the on-premises DBAs team **using Microsoft Azure Database for PostgreSQL Servers**
+- **[Serverless website deployment 100% automated in multiple environments (Test, QA and Production) using Azure DevOps Repos and Pipelines (CI/CD)](https://medium.com/devops-dev/azure-serverless-website-deployment-100-automated-in-multiple-environments-test-qa-and-f464af60f18c)**  
+  Implemented a fully automated, serverless static website deployment pipeline using Azure DevOps. The goal was to establish a streamlined CI/CD process that supports three deployment environments — Testing, QA, and Production — without relying on traditional virtual machine infrastructure.
+
+  
+  
 ### **🌐 Google Cloud Platform (GCP)**
-- **[Global Cloud Load Balancing]()**  
-  Implemented global load balancing for high availability and intelligent traffic distribution.
-- **[Intercontinental VM Migration]()**  
-  Migrated VMs from the USA to Australia using **GCP Storage Snapshots**.
-- **[Multi-Cloud Private Network]()**  
-  Deployed a private multi-cloud network (AWS + GCP) using **Terraform**.
-- **[GCP Storage Automation]()**  
-  Automated Google Cloud Storage using **Python** and **IAM Service Accounts**.
+- **[Automation Using Python on Google Cloud — IAM Service Accounts](https://medium.com/google-cloud/google-cloud-project-automation-using-python-on-google-cloud-iam-service-accounts-f3bb08e5bc9a)**  
+  I used IAM services on GCP to create a Service Account. This service account allowed communication via scripts within the architecture through Cloud SDK and Python Scripts.
+- **[Deployment of a Private Communication in a MultiCloud Environment (AWS and GCP) 100% automated using Terraform](https://medium.com/google-cloud/deployment-of-a-private-communication-in-a-multicloud-environment-aws-and-gcp-100-automated-164a369f8182)**  
+  Implemented a solution to bridge two distinct cloud environments: Google Cloud Platform (GCP) and Amazon Web Services (AWS) used independently within the organization
+- **[Deployment of Global Cloud Load Balancing between Regions in the USA and Europe](https://medium.com/google-cloud/gcp-project-deployment-of-cloud-load-balancing-between-regions-in-the-usa-and-europe-for-global-7ec7d92e2fcb)**  
+  Deployment of Cloud Load Balancing between Regions in the USA and Europe for global high availability and intelligent traffic distribution based on user proximity and location
+- **[Intercontinental VM Migration on GCP](https://medium.com/google-cloud/google-project-migration-of-intercontinental-vm-usa-region-australia-region-using-storage-220af113f1b1)**  
+  Migration of Intercontinental VM (USA Region > Australia Region) using **Storage Snapshot through Google Cloud Internal Private Network. **
+- **[Migration of Standalone Application and Database from VM (Google Compute Engine) to a modern architecture, using Google Kubernetes Engine (APP) + Cloud SQL (DB) with High Availability](https://medium.com/google-cloud/gcp-project-migration-of-standalone-application-and-database-from-vm-google-compute-engine-to-a-388a5676ba92)**  
+  Modernized a legacy virtual machine-based application by implementing a fully managed, containerized architecture on Google Cloud Platform (GCP).
+- **[Deployment of Corporate Training Portal on Google Cloud Platform using Deployment Manager, Google Compute Engine & Cloud Storage](https://medium.com/google-cloud/gcp-project-deployment-of-corporate-training-portal-on-google-cloud-platform-using-deployment-c231dd28ed28)**  
+  Deployed a Moodle-based Corporate Training Portal using Deployment Manager on Google Cloud Platform (GCP).
 
 ### **🌐 Oracle Cloud Infrastructure (OCI)**
+- **[Deployment of Users, Groups and Policies in an 100% Automated Way using Ansible and Oracle Cloud Shell]([https://medium.com/google-cloud/gcp-project-deployment-of-corporate-training-portal-on-google-cloud-platform-using-deployment-c231dd28ed28](https://medium.com/devops-dev/oci-project-implementation-of-users-groups-and-policies-in-a-100-automated-way-using-ansible-250785ae2259))**  
+  Implementation of users, groups, and policies in a 100% automated way using **Ansible and Cloud Shell.**
 
 
 ### **🚀DevOps & CI/CD**
-- **[HumanGov Serverless Microservice]()**  
-  Developed an event-driven serverless microservice using **AWS Lambda** and **Boto3**.
-- **[AWS CloudWatch Monitoring]()**  
-  Automated monitoring and alerting for applications using **CloudWatch**, **SNS**, and **Chatbot**.
-- **[CI/CD Pipeline for Kubernetes]()**  
-  Automated build and deployment on **Kubernetes** using **AWS CodePipeline** and **CodeBuild**.
-- **[AWS EKS Deployment]()**  
-  Deployed a SaaS application on **AWS EKS** with **Route 53**, **ALB Ingress**, and **SSL**.
-- **[HumanGov ECS POC]()**  
-  Implemented a Proof of Concept (POC) on **AWS ECS** fronted by **Application Load Balancer (ALB)** and stored Docker images on **Elastic Container Registry (ECR)**.
-- **[Terraform AWS Infrastructure]()**  
-  Built reusable multi-tenant AWS infrastructure using **Terraform**.
+- **[Deployment Of SaaS Application on AWS Elastic Kubernetes Service (EKS](https://medium.com/@olusegunomotunde/deployment-of-saas-application-on-aws-elastic-kubernetes-service-eks-using-a-route-53-domain-alb-74cb6dfae766)**  
+  Deployed SaaS Application on **AWS Elastic Kubernetes Service (EKS)** Using a **Route 53 Domain, ALB Ingress, and SSL Endpoint Powered by AWS Certificate Manager**
+- **[Proof of Concept (POC) on AWS Elastic Container Service (ECS)](https://medium.com/@olusegunomotunde/proof-of-concept-poc-on-aws-elastic-container-service-ecs-fronted-by-application-load-balancer-00aced72f884)**  
+  Implemented Proof of Concept (POC) on **AWS Elastic Container Service (ECS)** fronted by **Application Load Balancer (ALB)** and Storing **Docker Images on Elastic Container Registry (ECR)**
+- **[Configuration and Deployment of SaaS Application on AWS EC2 Inventory](https://medium.com/devops-dev/devops-project-configuration-and-deployment-of-humangov-saas-application-on-aws-ec2-inventory-a0c83c302cee)**  
+   I used Ansible configuration management automation to configure and deploy the innovative SaaS application on AWS EC2 instances 
+- **[CI/CD Pipeline with AWS and Kubernetes](https://medium.com/towards-aws/deployment-of-a-reusable-saas-multi-tenant-aws-infrastructure-using-terraform-modules-securely-8db45e777aff)**  
+  Automated the design and deployement of  a reusable, multi-tenant SaaS infrastructure on **AWS** using **Terraform modules** and securely store the terraform configuration files on **AWS CodeCommit**. 
+- **[Implementation Of Git Repositories For Application And Infrastructure Code](https://medium.com/devops-dev/implementation-of-git-repositories-for-application-and-infrastructure-code-using-aws-code-commit-ba47c1cce133)**  
+  Implemented Git repositories for application and infrastructure code using AWS CodeCommit, and got hands-on experience with the Proof of Concept (PoC) process of commit, push, and revert code changes.
+- **[E-Commerce MVP Deployment](https://medium.com/towards-aws/implementation-of-an-e-commerce-system-on-aws-in-an-automated-way-using-terraform-and-ansible-299bddbf4904)**  
+  Implementation of an E-Commerce System on **AWS** in an automated way using **Terraform and Ansible**
 
 ### ** Data Science & Machine Learning Solutions**
 - **[NBA Players Clustering](https://github.com/omotuno/nba_positions_clustering)**  
   This project performs cluster analysis on NBA player statistics to group players into functional categories based on their on-court statistics and style of play.
 - **[Baseball Salary Prediction](https://github.com/omotuno/baseball_salary_prediction)**  
   This project, developed in R Studio, delves into regression modeling for predicting annual salaries of major league baseball players using the Hitters dataset from the ISLR package. 
+
 
 ### **📈 Data Visualization**
 
