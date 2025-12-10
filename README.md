@@ -38,7 +38,7 @@ My name is Olusegun, and I’m a results-driven Data and AI Engineer with a stro
   Developed functionality to convert doctor-patient audio conversations into text using **Azure AI Speech Service**.
 - **[HealthHub Medical Voice Translator]()**  
   Enabled multilingual medical information conversion using **AWS Polly** and **Amazon Translate**.
-- **[HealthHub Serverless Deployment]()**  
+- **[HealthHub Serverless Deployment](https://medium.com/@olusegunomotunde/deployment-of-a-serverless-application-on-aws-using-amazon-cognito-s3-api-gateway-dynamodb-and-b477ad4160fb?postPublishedType=initial)**  
   Deployed a 100% serverless application on AWS using **CloudFormation**, **Cognito**, **S3**, **API Gateway**, **DynamoDB**, and **Lambda**.
 - **[Local RAG Implementation with DeepSeek and Ollama]()**  
   Developed a local **Retrieval-Augmented Generation (RAG)** solution using **DeepSeek**, **Ollama**, and Python for privacy-focused AI inference.
