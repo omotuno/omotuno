@@ -36,7 +36,7 @@ My name is Olusegun, and I’m a results-driven Data and AI Engineer with a stro
   Built a machine learning solution for disease identification in medical images using **Google Cloud Vision AI**.
 - **[HealthHub Speech-to-Text]()**  
   Developed functionality to convert doctor-patient audio conversations into text using **Azure AI Speech Service**.
-- **[HealthHub Medical Voice Translator]()**  
+- **[HealthHub Medical Voice Translator](https://medium.com/@olusegunomotunde/automating-medical-data-translation-and-voice-generation-with-amazon-polly-translate-b309c71c9540)**  
   Enabled multilingual medical information conversion using **AWS Polly** and **Amazon Translate**.
 - **[HealthHub Serverless Deployment](https://medium.com/@olusegunomotunde/deployment-of-a-serverless-application-on-aws-using-amazon-cognito-s3-api-gateway-dynamodb-and-b477ad4160fb?postPublishedType=initial)**  
   Deployed a 100% serverless application on AWS using **CloudFormation**, **Cognito**, **S3**, **API Gateway**, **DynamoDB**, and **Lambda**.
