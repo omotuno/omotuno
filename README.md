@@ -25,7 +25,7 @@ My name is Olusegun, and I’m a results-driven Data and AI Engineer with a stro
 - Always open to collaborating on projects that push the boundaries of **data and AI**.
 
 
-## 💼 Featured Projects
+## 💼 Featured Projects on Medium
 
 ### **🤖 AI  Solutions**
 - **[CSV Data Viz Analysis Tool](https://github.com/omotuno/CSV-Data-Viz-Analysis-Tool)**  
