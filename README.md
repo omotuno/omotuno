@@ -25,7 +25,8 @@ My name is Olusegun, and I’m a results-driven Data and AI Engineer with a stro
 - Always open to collaborating on projects that push the boundaries of **data and AI**.
 
 
-## 💼 Featured Projects on Medium
+
+### 💼 Some Featured Projects on Medium
 
 - **[HealthHub AI Assistant]()**  
   Implemented an AI agent for customer support and medical appointment scheduling using **OpenAI API**, **Functions (API Call)**, and **RAG (Retrieval-Augmented Generation)**.
@@ -35,26 +36,16 @@ My name is Olusegun, and I’m a results-driven Data and AI Engineer with a stro
   Developed functionality to convert doctor-patient audio conversations into text using **Azure AI Speech Service**.
 - **[HealthHub Medical Voice Translator](https://medium.com/@olusegunomotunde/automating-medical-data-translation-and-voice-generation-with-amazon-polly-translate-b309c71c9540)**  
 Deployed a 100% serverless application on AWS using **CloudFormation**, **Cognito**, **S3**, **API Gateway**, **DynamoDB**, and **Lambda** and enabled multilingual medical information conversion using **AWS Polly** and **Amazon Translate**.
-- **[Configuration and Deployment of SaaS Application on AWS EC2 Inventory](https://medium.com/devops-dev/devops-project-configuration-and-deployment-of-humangov-saas-application-on-aws-ec2-inventory-a0c83c302cee)**  
-   I used Ansible configuration management automation to configure and deploy the innovative SaaS application on AWS EC2 instances 
-- **[CI/CD Pipeline with AWS and Kubernetes](https://medium.com/towards-aws/deployment-of-a-reusable-saas-multi-tenant-aws-infrastructure-using-terraform-modules-securely-8db45e777aff)**  
-  Automated the design and deployement of  a reusable, multi-tenant SaaS infrastructure on **AWS** using **Terraform modules** and securely store the terraform configuration files on **AWS CodeCommit**. 
 - **[DevSecOps- Infrastructure As Code (IAC) and Automation of a Security Agent Installation](http://medium.com/aws-tip/implementation-of-a-set-of-ec2-instances-using-terraform-and-aws-systems-manager-configuration-with-74830c800935)**  
    Implementation of a set of EC2 instances using Terraform and AWS Systems Manager configuration with **Amazon Simple Notification Service (SNS)** for automated installation of security agents/officers
-- **[Implementation and Deployment of a Scalable Web Application on AWS](https://medium.com/@olusegunomotunde/implementation-and-deployment-of-a-scalable-web-application-using-the-2e3a61f64d3d)**  
-  Implementation and deployment of a Scalable Web Application using the services of **AWS Elastic Beanstalk, DynamoDB, CloudFront and Edge Locations**.
 - **[Azure DevOps Project](https://medium.com/@olusegunomotunde/azure-devops-project-docker-image-push-and-deployment-for-containerized-voting-application-in-47468a082407)**  
   Docker Image Push and Deployment for Containerized Voting Application in **Kubernetes Cluster using Docker, Azure Container Registry (ACR), and Azure Kubernetes Service (AKS)**
 - **[Serverless website deployment 100% automated in multiple environments (Test, QA and Production) using Azure DevOps Repos and Pipelines (CI/CD)](https://medium.com/devops-dev/azure-serverless-website-deployment-100-automated-in-multiple-environments-test-qa-and-f464af60f18c)**  
   Implemented a fully automated, serverless static website deployment pipeline using Azure DevOps. The goal was to establish a streamlined CI/CD process that supports three deployment environments — Testing, QA, and Production — without relying on traditional virtual machine infrastructure.
 - **[Deployment of a Private Communication in a MultiCloud Environment (AWS and GCP) 100% automated using Terraform](https://medium.com/google-cloud/deployment-of-a-private-communication-in-a-multicloud-environment-aws-and-gcp-100-automated-164a369f8182)**  
   Implemented a solution to bridge two distinct cloud environments: Google Cloud Platform (GCP) and Amazon Web Services (AWS) used independently within the organization
-- **[Deployment of Global Cloud Load Balancing between Regions in the USA and Europe](https://medium.com/google-cloud/gcp-project-deployment-of-cloud-load-balancing-between-regions-in-the-usa-and-europe-for-global-7ec7d92e2fcb)**  
-  Deployment of Cloud Load Balancing between Regions in the USA and Europe for global high availability and intelligent traffic distribution based on user proximity and location
 - **[Deployment Of SaaS Application on AWS Elastic Kubernetes Service (EKS](https://medium.com/@olusegunomotunde/deployment-of-saas-application-on-aws-elastic-kubernetes-service-eks-using-a-route-53-domain-alb-74cb6dfae766)**  
   Deployed SaaS Application on **AWS Elastic Kubernetes Service (EKS)** Using a **Route 53 Domain, ALB Ingress, and SSL Endpoint Powered by AWS Certificate Manager**
-- **[E-Commerce MVP Deployment](https://medium.com/towards-aws/implementation-of-an-e-commerce-system-on-aws-in-an-automated-way-using-terraform-and-ansible-299bddbf4904)**  
-  Implementation of an E-Commerce System on **AWS** in an automated way using **Terraform and Ansible**
 
 
 ---
