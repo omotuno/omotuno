@@ -14,15 +14,12 @@
 
 My name is **Olusegun**, and I'm a results-driven Data & AI Engineer with a strong foundation in 
 cloud architecture and DevOps, and deep industry experience in **healthcare and aviation**. I design 
-and deploy scalable, cost-effective solutions across **AWS, Azure, GCP, and OCI** — from real-time 
+and deploy scalable, cost-effective solutions across **AWS, Azure, GCP, and OCI** from real-time 
 analytics platforms and AI-driven cloud solutions to serverless architectures and multi-cloud networks.
 
 I approach every challenge with a **tool and platform agnostic mindset**: the problem defines the 
 solution, not the other way around. My focus is on ensuring technology serves business strategy and 
 translating innovation into measurable business value.
-
-I'm currently growing into **agentic AI and AI automation** — exploring how LLMs can orchestrate 
-workflows, use tools, and drive real business outcomes. That's where I'm building next.
 
 > *Good engineering is invisible. Great engineering changes behavior.*
 
@@ -35,12 +32,9 @@ workflows, use tools, and drive real business outcomes. That's where I'm buildin
 - Model Context Protocol (MCP) and tool-use patterns
 - Multi-agent orchestration and planning loops
 - Business process automation using LLMs
-
-**AI Automation**
-- Business process automation using LLMs
 - AI-driven decision and approval workflows
 - Production-grade RAG with robust retrieval layers
-- Guardrails for AI System
+- Guardrails for AI Applications & Systems
 
 **AI for DevOps & Reliability Engineering**
 - AI-assisted incident detection and root cause analysis
