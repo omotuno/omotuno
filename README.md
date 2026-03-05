@@ -24,7 +24,7 @@ translating innovation into measurable business value.
 I'm currently growing into **agentic AI and AI automation** — exploring how LLMs can orchestrate 
 workflows, use tools, and drive real business outcomes. That's where I'm building next.
 
-> *"Good engineering is invisible. Great engineering changes behavior."*
+> *Good engineering is invisible. Great engineering changes behavior.*
 
 
 ---
