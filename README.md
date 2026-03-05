@@ -7,7 +7,6 @@
 [![Medium](https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@olusegunomotunde)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:omotundejunior@gmail.com)
 ![Location](https://img.shields.io/badge/Atlanta%2C_Georgia-🌍-2c5364?style=flat-square)
-![Profile Views](https://komarev.com/ghpvc/?username=omotuno&color=38bdf8&style=flat-square&label=Profile+Views)
 
 </div>
 
