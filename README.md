@@ -32,10 +32,7 @@ translating innovation into measurable business value.
 
 | Project | Focus Area |
 |--------|------------|
-| [HealthHub AI Assistant]() | OpenAI + RAG + Function Calling for medical scheduling |
 | [HealthHub Medical Voice Translator](https://medium.com/@olusegunomotunde/automating-medical-data-translation-and-voice-generation-with-amazon-polly-translate-b309c71c9540) | 100% serverless — AWS Polly, Translate, Lambda, DynamoDB |
-| [HealthHub Vision AI]() | Disease identification in medical images — GCP Vision AI |
-| [HealthHub Speech-to-Text]() | Doctor-patient audio transcription — Azure AI Speech |
 | [DevSecOps: IAC + Security Agent Automation](http://medium.com/aws-tip/implementation-of-a-set-of-ec2-instances-using-terraform-and-aws-systems-manager-configuration-with-74830c800935) | Terraform + AWS SSM + SNS |
 | [Azure DevOps: Containerized Voting App](https://medium.com/@olusegunomotunde/azure-devops-project-docker-image-push-and-deployment-for-containerized-voting-application-in-47468a082407) | Docker, ACR, AKS, Kubernetes |
 | [MultiCloud Private Network (AWS + GCP)](https://medium.com/google-cloud/deployment-of-a-private-communication-in-a-multicloud-environment-aws-and-gcp-100-automated-164a369f8182) | 100% automated Terraform — VPC peering across clouds |
