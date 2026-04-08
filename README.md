@@ -25,44 +25,6 @@ translating innovation into measurable business value.
 
 
 ---
-### 🧠 Learning, Building & Exploring
-
-**Agentic AI & Automation**
-- Agent frameworks — LangGraph, CrewAI, AutoGen
-- Model Context Protocol (MCP) and tool-use patterns
-- Multi-agent orchestration and planning loops
-- Business process automation using LLMs
-- AI-driven decision and approval workflows
-- Production-grade RAG with robust retrieval layers
-- Guardrails for AI Applications & Systems
-
-**AI for DevOps & Reliability Engineering**
-- AI-assisted incident detection and root cause analysis
-- LLM-powered runbooks and on-call automation
-- Observability + AI for SRE workflows
-
-**Platform & Cloud Engineering**
-- Advanced IaC patterns — Terraform, CloudFormation
-- Kubernetes and cloud-native architecture
-- CI/CD pipeline design and DevOps workflows
-  
----
-
-### 🎯 Some 2026 Goals
-
-### Technical Growth
-- [ ] 🤖 Build and ship **2 end-to-end agentic AI applications** using MCP and tool-use
-- [ ] 🔁 Complete a production-grade **AI automation pipeline** for a real business workflow
-- [ ] 🛡️ Ship a working **AI + SRE/DevOps integration** — LLM-powered alerting or runbook automation
-- [ ] 📦 Publish **4 technical blog posts** on agentic AI, RAG, or AI infrastructure
-- [ ] ☁️ Deepen expertise in **LLMOps and AI infrastructure** patterns on AWS
-
-### Personal Milestones
-- [ ] 🏃 Run a **full marathon** (26.2 miles — let's go)
-- [ ] ✈️ Travel more with my **family** — new cities, new memories
-- [ ] 📚 Read **6 books** across tech, history, and fiction
-
----
 
 ### 📝 Featured Writing on Medium
 
